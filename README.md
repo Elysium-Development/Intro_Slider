@@ -1,0 +1,1 @@
+This is a demo of an introductory slider for Android applications. Welcome your users to your app with gorgeous animations, colors, and icons, and give your app a more polished and professional look!
